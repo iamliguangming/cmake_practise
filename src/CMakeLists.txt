@@ -1,0 +1,7 @@
+project(hello_impl)
+cmake_minimum_required(VERSION 3.19)
+include_directories(../include)
+set(LIB_WALKER_SRC walker.cpp)
+add_library(walker SHARED ${LIB_WALKER_SRC})
+add_executable(${PROJECT_NAME} main.cpp)
+target_link_libraries(${PROJECT_NAME} walker)
