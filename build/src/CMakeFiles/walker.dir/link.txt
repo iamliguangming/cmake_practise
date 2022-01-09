@@ -1,1 +1,0 @@
-/usr/bin/clang++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libwalker.dylib -install_name @rpath/libwalker.dylib CMakeFiles/walker.dir/walker.cpp.o 

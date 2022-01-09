@@ -1,6 +1,0 @@
-/Users/yupengli/cmake_practise/build/CMakeFiles/rebuild_cache.dir
-/Users/yupengli/cmake_practise/build/CMakeFiles/edit_cache.dir
-/Users/yupengli/cmake_practise/build/src/CMakeFiles/hello_impl.dir
-/Users/yupengli/cmake_practise/build/src/CMakeFiles/rebuild_cache.dir
-/Users/yupengli/cmake_practise/build/src/CMakeFiles/edit_cache.dir
-/Users/yupengli/cmake_practise/build/src/CMakeFiles/walker.dir
